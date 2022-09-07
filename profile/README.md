@@ -6,7 +6,7 @@ _World-class center of excellence that continuously betters the lives of people 
 
 ## Our Mission
 
-*Play a pivotal role in building a strong foundation of research and higher education in the field of informatics, applied mathematics and AI; conduct high-quality research; building innovation ecosystem and contribute towards democratizing AI in the world.*
+**Play a pivotal role in building a strong foundation of research and higher education in the field of informatics, applied mathematics and AI; conduct high-quality research; building innovation ecosystem and contribute towards democratizing AI in the world.**
 
 The world is in an exciting time where the application of informatics and mathematics is changing the way we live and interact.
 Things considered as science fiction until recently are fast approaching to be the present day reality.
